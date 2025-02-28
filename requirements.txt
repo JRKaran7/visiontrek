@@ -2,3 +2,4 @@ pygame
 numpy
 opencv-python
 requests
+mediapipe
